@@ -1,3 +1,6 @@
+<img width="311" height="162" alt="image" src="https://github.com/user-attachments/assets/cc689333-9e50-4811-9c4d-ec4b0ca510ef" />
+
+
 # 🛡️ EKAV OBFUSCATOR V3
 
 <p align="center">
